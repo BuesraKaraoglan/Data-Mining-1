@@ -6,7 +6,7 @@ Dieses Repository enthält Materialien und Aufgaben im Zusammenhang mit der Vorl
 Die Ausarbeitung besteht aus zwei Teilen, wobei Aufgaben sowohl mit SAS-Prozeduren als auch mit SAS Enterprise Miner bearbeitet wurden.
 
 
-### Teil 1: Mit SAS bearbeitet
+### Teil 1:
 
 #### Aufgabe 5u
 Analyse der Fallstudie SPESSART hinsichtlich des Blattverlusts bei Buchen.
@@ -27,7 +27,7 @@ Untersuchung der Bedeutung der Merkmale Streichfähigkeit und Haltbarkeit für d
 Vergleich der Confusion Matrix der logistischen Regression mit der Confusion Matrix der Diskriminanzanalyse.
 
 
-### Teil 2: Mit SAS Enterprise Miner bearbeitet
+### Teil 2:
 
 #### Aufgabe 8
 Präsentation der Ergebnisse und Zuordnung gleichartiger oder gleichwertiger Ergebnisse zwischen SAS-Prozeduren und EMiner Ergebnissen.
