@@ -9,19 +9,19 @@ Die Ausarbeitung besteht aus zwei Teilen, wobei Aufgaben sowohl mit SAS-Prozedur
 ### Teil 1: Mit SAS bearbeitet
 
 #### Aufgabe 5u
-Fallstudie SPESSART (SMB Kapitel 4, Seite 149 ...): Logistische Regression und schrittweise logistische Regression, Erläuterung der Ergebnisse und Darstellung des Zusammenhangs zwischen mathematischen Formeln (SMB) und SAS-Input/Output.
+Analyse der Fallstudie SPESSART hinsichtlich des Blattverlusts bei Buchen.
 
 #### Aufgabe 5v
-Analyse der Daten aus dem SAS-Programm UEBUNG_61_START.sas (Therapieerfolg): Logistische Regression und schrittweise logistische Regression, Erweiterung des Wissens um Elemente wie Grafiken zur Bewertung der Regression, statistische Tests und Klassifikationstabellen.
+Untersuchung des Therapieerfolgs anhand von Merkmalen wie Beruf, Geschlecht, Rauchverhalten und Blutdruck.
 
 #### Aufgabe 7u A
-Erstellung, Begründung und Bewertung von Modellen zur Vorhersage der Depression (Variable <CASES>) aus anderen Einflussgrößen. Untersuchung des Einflusses des Geschlechts auf den Depressionszustand.
+Erstellung, Begründung und Bewertung von Modellen zur Vorhersage der Depression aus anderen Einflussgrößen. Untersuchung des Einflusses des Geschlechts auf den Depressionszustand.
 
 #### Aufgabe 7u B
-Analyse des Einflusses des Geschlechts auf den Depressionszustand unter Verwendung von logistischer Regression und Tabellenanalyse.
+Analyse des Einflusses des Geschlechts auf den Depressionszustand.
 
 #### Aufgabe 7v A
-Untersuchung der Bedeutung der Merkmale Streichfähigkeit und Haltbarkeit für die Markenwahl (Variable MARKE = A oder B) mit logistischer Regression und Diskriminanzanalyse.
+Untersuchung der Bedeutung der Merkmale Streichfähigkeit und Haltbarkeit für die Markenwahl.
 
 #### Aufgabe 7v B
 Vergleich der Confusion Matrix der logistischen Regression mit der Confusion Matrix der Diskriminanzanalyse.
