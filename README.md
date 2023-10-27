@@ -1,5 +1,5 @@
 # Data Mining 1
-Dieses Repository enthält Materialien und Aufgaben im Zusammenhang mit der Vorlesung "Data Mining 1" am Fachbereich Business Mathematics an der Hochschule Darmstadt, die unter der Anleitung von Prof. Dr. Werner Helm durchgeführt wurde. Die Ausarbeitung dient der Vorleistung für das Modul Data Mining 1 und umfasst verschiedene Methoden und Techniken, darunter logistische Regression, Diskriminanzanalyse, Entscheidungsbäume und Support Vector Machines. Die Optimierung der Modelle und der Vergleich verschiedener Modelle sind ebenfalls Bestandteil der Aufgaben.
+Dieses Repository enthält Materialien und Aufgaben im Zusammenhang mit der Vorlesung Data Mining 1 am Fachbereich Business Mathematics an der Hochschule Darmstadt, die unter der Anleitung von Prof. Dr. Werner Helm durchgeführt wurde. Die Ausarbeitung dient der Vorleistung für das Modul Data Mining 1 und umfasst verschiedene Methoden und Techniken, darunter logistische Regression, Diskriminanzanalyse, Entscheidungsbäume und Support Vector Machines. Die Optimierung der Modelle und der Vergleich verschiedener Modelle sind ebenfalls Bestandteil der Aufgaben.
 
 
 ## Aufgaben
@@ -37,3 +37,6 @@ Analyse der Datei ORGANICS, um herauszufinden, welche Kunden wahrscheinlich die 
 
 #### Aufgabe 10
 Bearbeitung der Datei CREDIT, um ein Risikomodell zur Unterstützung zukünftiger Kreditentscheidungen zu erstellen.
+
+
+© 2017 Büsra KARAOGLAN | Hochschule Darmstadt
